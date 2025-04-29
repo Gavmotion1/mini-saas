@@ -1,7 +1,6 @@
 Clone the repository
-Install dependencynpm install
-
-Start the server node server.js
+in the terminal Install dependency npm install
+Start the server by typing node server.js
 
 you should see:
 Server running on http://localhost:3000
@@ -11,3 +10,12 @@ Login using:
 Email	admin@example.com
 Password	admin
 After logging in, you will be redirected to the dashboard showing mock statistics.
+
+
+Login Page
+
+<img src="login.png" width="400" alt="Login Page" />
+
+Dashboard
+
+<img src="dahsboard.png" width="500" alt="Dashboard Page" />
