@@ -18,4 +18,4 @@ Login Page
 
 Dashboard
 
-<img src="assets/dahsboard.png" width="500" alt="Dashboard Page" />
+<img src="assets/dashboard.png" width="500" alt="Dashboard Page" />
