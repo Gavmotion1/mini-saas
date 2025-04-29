@@ -14,8 +14,8 @@ After logging in, you will be redirected to the dashboard showing mock statistic
 
 Login Page
 
-<img src="login.png" width="400" alt="Login Page" />
+<img src="assets/login.png" width="400" alt="Login Page" />
 
 Dashboard
 
-<img src="dahsboard.png" width="500" alt="Dashboard Page" />
+<img src="assets/dahsboard.png" width="500" alt="Dashboard Page" />
