@@ -1,6 +1,6 @@
 Clone the repository
 in the terminal Install dependency npm install
-Start the server by typing node server.js
+Start the server with node server.js
 
 you should see:
 Server running on http://localhost:3000
